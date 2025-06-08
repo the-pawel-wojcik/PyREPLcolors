@@ -2,6 +2,11 @@
 Python 3.14 by default colors syntax in REPL. The script in this repository
 enables configuration of the coloring scheme.
 
+Could someone please make it pretty for me?
+
+## How does it look like
+![Colors demo](demo.png)
+
 ## Installation
 ```bash
 # .bashrc

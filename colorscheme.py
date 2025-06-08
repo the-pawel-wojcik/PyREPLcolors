@@ -12,7 +12,7 @@ else:
             prompt=ANSIColors.BOLD_WHITE,
             keyword=ANSIColors.BOLD_YELLOW,
             comment=ANSIColors.GREY,
-            string=ANSIColors.BACKGROUND_BLACK + ANSIColors.WHITE,
+            string=ANSIColors.BACKGROUND_BLACK + ANSIColors.YELLOW,
             soft_keyword=ANSIColors.BOLD_YELLOW,
         )
     )
