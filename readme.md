@@ -22,3 +22,4 @@ specifiers: `RESET`, and `BOLD`.
 # References
 [Announcement](https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-pyrepl-highlighting)
 
+[Forum discussion](https://discuss.python.org/t/pyrepl-color-themes)
